@@ -1,6 +1,9 @@
+
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=F4D47B&height=200&section=header&text=Seunghye_Github!&fontSize=70)
+  
 📝studing📝  
-<br />
 <br />
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
