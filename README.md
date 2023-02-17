@@ -26,4 +26,16 @@
 💚velog💚
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=tmdgp0212)](https://velog.io/@tmdgp0212)
+
+<br />
+<br />
+
+✨social✨
+
+<div>
+  <a href="https://www.instagram.com/gnues.eyh/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+  </a>
+</div>
+
 </div>
